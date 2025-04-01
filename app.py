@@ -19,7 +19,7 @@ if not os.path.exists('cache'):
 # 거래소 설정
 @st.cache_data
 def get_exchange():
-    return ccxt.binance({
+    return ccxt.binanceus({
         'enableRateLimit': True,
     })
 
