@@ -2,6 +2,8 @@
 
 CCXT 라이브러리와 Streamlit을 활용한 암호화폐 백테스팅 시스템입니다.
 
+배포주소: https://backtesting-on.streamlit.app/
+
 ## 주요 기능
 
 - 다양한 코인(BTC, ETH, ADA, SOL, XRP) 백테스팅
